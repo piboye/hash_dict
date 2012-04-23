@@ -1,19 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  kv.h
- *
- *    Description:  
- *        Version:  1.0
- *        Created:  2012/03/13 23时46分42秒
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  YOUR NAME (), 
- *        Company:  
- *
- * =====================================================================================
- */
 #ifndef KV_H_INC
 #define KV_H_INC
 #include <string>
